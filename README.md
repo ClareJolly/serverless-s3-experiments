@@ -42,7 +42,7 @@ Clone the repo
 
 - `yarn`
 
-Note: for some reason I am having to run these commands with `sudo` - I need to look into why and alternative solutions
+<!-- Note: for some reason I am having to run these commands with `sudo` - I need to look into why and alternative solutions -->
 
 - start the s3 server `yarn start:s3`
 - run lambda `yarn start`

@@ -1,15 +1,14 @@
-Serverless S3 Experiments
+# Serverless S3 Experiments
 
-TO accompany my main serverless repo - [here](https://github.com/ClareJolly/serverless-offline-experiments)
-
-Running s3
+To accompany my main serverless repo - [here](https://github.com/ClareJolly/serverless-offline-experiments)
 
 ---
 
 ## Contents <!-- omit in toc -->
 
-- [Pre-requisites](#pre-requisites)
-- [Set up](#set-up)
+- [Serverless S3 Experiments](#serverless-s3-experiments)
+  - [Pre-requisites](#pre-requisites)
+  - [Set up](#set-up)
 
 ---
 
